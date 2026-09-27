@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:gravity="center" android:padding="24dp" android:layout_width="match_parent" android:layout_height="match_parent">
+<TextView android:text="My Glyph Keyboard" android:textSize="26sp" android:textStyle="bold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="24dp"/>
+<TextView android:text="আপনার Waheedlove font দিয়ে A-Z keyboard" android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="20dp"/>
+<Button android:id="@+id/enable" android:text="Enable Keyboard" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+<Button android:id="@+id/choose" android:text="Choose Keyboard" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="12dp"/>
+</LinearLayout>
